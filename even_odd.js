@@ -1,8 +1,8 @@
 let a = 55;
 if (a%2==0){
-	return 'Even';
+	return 'Even Number';
 } else {
-	return "Odd";
+	return "Odd Number";
 }
 
 
