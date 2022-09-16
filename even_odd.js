@@ -1,7 +1,8 @@
-let a = 2;
-
+let a = 55;
 if (a%2==0){
-	console.log('Even');
+	return 'Even';
 } else {
-	console.log('Odd');
+	return "Odd";
 }
+
+
